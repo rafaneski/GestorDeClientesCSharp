@@ -1,0 +1,8 @@
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.exe.config
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.pdb
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.AssemblyReference.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.pdb
